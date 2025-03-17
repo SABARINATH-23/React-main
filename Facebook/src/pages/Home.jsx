@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import logo from "../Images/4lCu2zih0ca.svg"
+import Languagrfooter from "../Components/Languagefooter";
 
 const Home = ()=>{
     return(
@@ -27,6 +28,7 @@ const Home = ()=>{
          
      </div>
      </div>
+     <Languagrfooter/>
         </>
     )
 }
