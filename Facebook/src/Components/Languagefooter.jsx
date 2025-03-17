@@ -24,7 +24,6 @@ const Languagrfooter = ()=>{
                 <a>Privacy Center</a> 
                 <a>About</a> 
                 <a>Create ad</a>
-                <a>Create Page</a>
                 <a>Developers</a>
                 <a>Careers</a>
                 <a>Cookies</a>

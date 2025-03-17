@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import logo from"../Images/4lCu2zih0ca1.svg"
+import Languagrfooter from "../Components/Languagefooter";
 
 
 const Login = ()=>{
@@ -21,6 +22,7 @@ const Login = ()=>{
                
           </div>
           </form>
+          <Languagrfooter/> 
         </>
     )
 }
